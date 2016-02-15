@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/thomaspaulmann/GradlePluginExamples.svg?branch=master)](https://travis-ci.org/thomaspaulmann/GradlePluginExamples) [![License](http://img.shields.io/:license-apache-brightgreen.svg?style=flat)](https://raw.githubusercontent.com/thomaspaulmann/GradlePluginExamples/master/LICENSE)
+
 # GradlePluginExamples
 This is an Example Android Project which uses all of my Gradle Plugins.
 
